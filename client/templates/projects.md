@@ -1,0 +1,52 @@
+Sometimes I write text files for free.
+======================================
+Cartier
+-------
+*[GitHub][cartier-ghub] [npm][cartier-npm]*<br>
+A client-side router build for navigating in [one-page apps](http://en.wikipedia.org/wiki/Single-page_application) like this one.
+
+markdownify
+-----------
+*[GitHub][mdify-ghub] [npm][mdify-npm]*<br>
+Include markdown documents into front-end JavaScript using `require()`.
+
+This website!
+-------------
+*[GitHub][site-ghub]*<br>
+Uses Cartier and markdownify to serve my personal site as a one-page app. All content (including this page!) is written in markdown.
+
+Newsletter
+----------
+*[GitHub][nl-ghub]*<br>
+A *very* small *very* fast PubSub library written in JavaScript.
+
+Ziptie
+------
+*[GitHub][ziptie-ghub]*<br>
+A powerful two-way data-binding library for binding DOM elements to JavaScript Objects with a clean, easy to use API.
+
+Lighthouse
+----------
+*[GitHub][lighthouse-ghub]*<br>
+Helping current and future Canadians find their new hometown. Group hackathon submission for the Government of Canada sponsored Canadian Open Data Experience 2014.
+
+terp
+----
+*[GitHub][terp-ghub]*<br>
+A simple programming language REPL, written in C with bison and flex for parsing and lexing.
+
+[cartier-npm]: https://npmjs.org/package/cartier
+[cartier-ghub]: https://github.com/bitjutsu/Cartier
+
+[mdify-npm]: https://npmjs.org/package/markdownify
+[mdify-ghub]: https://github.com/bitjutsu/markdownify
+
+[site-ghub]: https://github.com/bitjutsu/bitjutsu.ca
+
+[nl-ghub]: https://github.com/bitjutsu/Newsletter
+
+[ziptie-ghub]: https://github.com/bitjutsu/ziptie
+
+[lighthouse-ghub]: https://github.com/kmackinnon/TentacularApps
+
+[terp-ghub]: https://github.com/bitjutsu/terp
