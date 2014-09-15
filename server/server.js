@@ -11,5 +11,7 @@
         res.sendFile(__dirname + '/assets/index.html');
     });
 
-    app.listen(process.env.OPENSHIFT_NODEJS_PORT || 3000);
+    var port = process.env.OPENSHIFT_NODEJS_PORT || 3000,
+        host = process.env.OPENSHIFT_NODEJS_IP || 'localhost';
+    app.listen(port, host);
 }());
