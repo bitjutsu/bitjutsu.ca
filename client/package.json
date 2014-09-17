@@ -17,6 +17,6 @@
     "vinyl-source-stream": "^1.0.0"
   },
   "dependencies": {
-    "cartier": "^0.1.3"
+    "cartier": "^0.1.4"
   }
 }
