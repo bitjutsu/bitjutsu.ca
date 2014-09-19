@@ -35,6 +35,12 @@ input,select{vertical-align:middle}
     src: url(fonts/LiberationMono-Bold.ttf);
 }
 
+@font-face {
+    font-family: 'Coffee';
+    font-style: regular;
+    src: url(fonts/Coffee.woff);
+}
+
 html {
     font-family: 'Open Sans';
     font-weight: 400;
@@ -111,10 +117,10 @@ li {
 }
 
 footer {
-    height: 12px;
+    height: 14px;
 
     text-align: center;
-    font-size: 12px;
+    font-size: 14px;
 
     color: grey;
 
@@ -129,8 +135,14 @@ footer {
     cursor: default;
 }
 
-span.large {
-    font-size: 25px;
+.icon-coffee {
+    font-family: 'Coffee';
+    padding-left: 1px;
+    font-size: 15px;
+}
+
+.icon-coffee::before {
+    content: '\e801';
 }
 
 a {
