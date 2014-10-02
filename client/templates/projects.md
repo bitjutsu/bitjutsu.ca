@@ -15,15 +15,15 @@ This website!
 *[GitHub][site-ghub]*<br>
 Uses Cartier and markdownify to serve my personal site as a one-page app. All content (including this page!) is written in markdown.
 
+Ziptie
+------
+*[GitHub][ziptie-ghub] [npm][ziptie-npm]*<br>
+A powerful two-way data-binding library for binding DOM elements to JavaScript Objects with a clean, easy to use API.
+
 Newsletter
 ----------
 *[GitHub][nl-ghub]*<br>
 A *very* small *very* fast PubSub library written in JavaScript.
-
-Ziptie
-------
-*[GitHub][ziptie-ghub]*<br>
-A powerful two-way data-binding library for binding DOM elements to JavaScript Objects with a clean, easy to use API.
 
 Lighthouse
 ----------
@@ -43,9 +43,10 @@ A simple programming language REPL, written in C with bison and flex for parsing
 
 [site-ghub]: https://github.com/bitjutsu/bitjutsu.ca
 
-[nl-ghub]: https://github.com/bitjutsu/Newsletter
-
+[ziptie-npm]: https://npmjs.org/package/ziptie
 [ziptie-ghub]: https://github.com/bitjutsu/ziptie
+
+[nl-ghub]: https://github.com/bitjutsu/Newsletter
 
 [lighthouse-ghub]: https://github.com/kmackinnon/TentacularApps
 
