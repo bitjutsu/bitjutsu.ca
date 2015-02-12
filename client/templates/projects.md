@@ -1,39 +1,39 @@
-Sometimes I write text files for free.
-======================================
-Cartier
--------
+#Sometimes I write text files for free.
+
+## Braces
+*[GitHub][braces-ghub]*<br>
+An HTML pseudo-language. Uses familiar CSS-selector-like syntax to describe documents with less clutter. Uses [Jison][jison-homepage] for parsing/lexing.
+
+## Cartier
 *[GitHub][cartier-ghub] [npm][cartier-npm]*<br>
 A client-side router build for navigating in [one-page apps](http://en.wikipedia.org/wiki/Single-page_application) like this one.
 
-markdownify
------------
+## markdownify
 *[GitHub][mdify-ghub] [npm][mdify-npm]*<br>
 Include markdown documents into front-end JavaScript using `require()`.
 
-This website!
--------------
+## This website!
 *[GitHub][site-ghub]*<br>
 Uses Cartier and markdownify to serve my personal site as a one-page app. All content (including this page!) is written in markdown.
 
-Ziptie
-------
+## Ziptie
 *[GitHub][ziptie-ghub] [npm][ziptie-npm]*<br>
 A powerful two-way data-binding library for binding DOM elements to JavaScript Objects with a clean, easy to use API.
 
-Newsletter
-----------
+## Newsletter
 *[GitHub][nl-ghub]*<br>
 A *very* small *very* fast PubSub library written in JavaScript.
 
-Lighthouse
-----------
+## Lighthouse
 *[GitHub][lighthouse-ghub]*<br>
 Helping current and future Canadians find their new hometown. Group hackathon submission for the Government of Canada sponsored Canadian Open Data Experience 2014.
 
-terp
-----
+## terp
 *[GitHub][terp-ghub]*<br>
 A simple programming language REPL, written in C with bison and flex for parsing and lexing.
+
+[braces-ghub]: https://github.com/bitjutsu/Braces
+[jison-homepage]: http://jison.org
 
 [cartier-npm]: https://npmjs.org/package/cartier
 [cartier-ghub]: https://github.com/bitjutsu/Cartier
