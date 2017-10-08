@@ -1,7 +1,6 @@
-#Sometimes I write text files for free.
+# Sometimes I write text files for free.
 
-## UnsubMe.ca
-*[Site][unsubme-web]*<br>
+## UnsubMe
 Easy-to-use email unsubscription web app. Built with Node, uses almost no frontend JavaScript which increases accessibility.
 ContextIO Prize winner at McHacks 2015.
 
@@ -11,7 +10,7 @@ An HTML pseudo-language. Uses familiar CSS-selector-like syntax to describe docu
 
 ## Cartier
 *[GitHub][cartier-ghub] [npm][cartier-npm]*<br>
-A client-side router build for navigating in [one-page apps](http://en.wikipedia.org/wiki/Single-page_application) like this one.
+A client-side router build for navigating in [one-page apps](http://en.wikipedia.org/wiki/Single-page_application).
 
 ## markdownify
 *[GitHub][mdify-ghub] [npm][mdify-npm]*<br>
@@ -19,7 +18,7 @@ Include markdown documents into front-end JavaScript using `require()`.
 
 ## This website!
 *[GitHub][site-ghub]*<br>
-Uses Cartier and markdownify to serve my personal site as a one-page app. All content (including this page!) is written in markdown.
+All content (including this page!) is written in markdown.
 
 ## Ziptie
 *[GitHub][ziptie-ghub] [npm][ziptie-npm]*<br>
@@ -37,24 +36,22 @@ Helping current and future Canadians find their new hometown. Group hackathon su
 *[GitHub][terp-ghub]*<br>
 A simple programming language REPL, written in C with bison and flex for parsing and lexing.
 
-[unsubme-web]: https://www.unsubme.ca
-
-[braces-ghub]: https://github.com/bitjutsu/Braces
+[braces-ghub]: https://github.com/prollynomial/Braces
 [jison-homepage]: http://jison.org
 
 [cartier-npm]: https://npmjs.org/package/cartier
-[cartier-ghub]: https://github.com/bitjutsu/Cartier
+[cartier-ghub]: https://github.com/prollynomial/Cartier
 
 [mdify-npm]: https://npmjs.org/package/markdownify
-[mdify-ghub]: https://github.com/bitjutsu/markdownify
+[mdify-ghub]: https://github.com/prollynomial/markdownify
 
-[site-ghub]: https://github.com/bitjutsu/bitjutsu.ca
+[site-ghub]: https://github.com/prollynomial/prollynomial.github.io
 
 [ziptie-npm]: https://npmjs.org/package/ziptie
-[ziptie-ghub]: https://github.com/bitjutsu/ziptie
+[ziptie-ghub]: https://github.com/prollynomial/ziptie
 
-[nl-ghub]: https://github.com/bitjutsu/Newsletter
+[nl-ghub]: https://github.com/prollynomial/Newsletter
 
 [lighthouse-ghub]: https://github.com/kmackinnon/TentacularApps
 
-[terp-ghub]: https://github.com/bitjutsu/terp
+[terp-ghub]: https://github.com/prollynomial/terp
