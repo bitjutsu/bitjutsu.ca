@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
         <meta name="viewport" content="width=device-width">
 
-        <title>how did this get here I am not good with computer</title>
+        <title>$title$</title>
 
         <link rel="stylesheet" href="assets/styles.css">
         <link rel="shortcut icon" href="assets/favicon.ico">
@@ -13,11 +13,17 @@
     <body>
         <header>
             <a href="/">
+                $if(showFace)$
                 <img src="assets/face.jpg" id="face">
+                $endif$
                 <div id="title">
-                    <h1>Hey there!</h1>
+                    <h1>$heading$</h1>
                 </div>
             </a>
         </header>
 
-        <main>
+        <main>$body$</main>
+
+        <footer></footer>
+    </body>
+</html>
